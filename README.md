@@ -61,6 +61,8 @@ make run
 
 To Clean:
 make clean
+```
+---
 
 🎓 Educational Purpose
 
